@@ -1,3 +1,5 @@
+<p align="left><img src="https://raw.githubusercontent.com/baranoden/baranoden/main/assets/code.gif" alt="baran-oden/></p>
+
 <h1 align="center">Hi 👋, This is Baran</h1>
 <h3 align="center">A self-made, frontend developer from Turkey</h3>
 
@@ -7,11 +9,11 @@
 
 - 🌱 I’m currently learning **SPA & Micro Frontend Structure**
 
-- 👨‍💻 You have a Freelance Project For me? [↑ ↑ ↑ ↑ ↑ ↑](↑ ↑ ↑ ↑ ↑ ↑)
+- 📫 How to reach me **baranoden@gmail.com**
+
+- 👨‍💻 You have a Freelance Project For me? [↑ ↑ ↑ ↑ ↑ ↑]
 
 - 💬 Ask me about **React js.**
-
-- 📫 How to reach me **baranoden@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/baranoden/](https://www.linkedin.com/in/baranoden/)
 
