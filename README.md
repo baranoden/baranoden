@@ -1,4 +1,4 @@
-<p align="left><img src="https://raw.githubusercontent.com/baranoden/baranoden/main/assets/code.gif" alt="baran-oden/></p>
+<img align="left" src="https://raw.githubusercontent.com/baranoden/baranoden/main/assets/code.gif" alt="baran-oden/>
 
 <h1 align="center">Hi 👋, This is Baran</h1>
 <h3 align="center">A self-made, frontend developer from Turkey</h3>
