@@ -19,7 +19,7 @@
 
 - 👨‍💻 You have a Freelance Project For me? [↑ ↑ ↑ ↑ ↑ ↑]
 
-- 💬 Ask me about **React js.**
+- 💬 Ask me about **React js, Redux-Saga and also Typescript**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/baranoden/](https://www.linkedin.com/in/baranoden/)
 
