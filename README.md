@@ -23,6 +23,9 @@
 <li>
 <b>Ask me:</b> Redux-saga structure, react js and also typescript
 </li>
+ <li>
+   <b>My Projects:</b> <a href="https://hyades.dev">www.hyades.dev</a>
+</li>
 </div>
 <br><br><br>
 </div>
