@@ -1,7 +1,7 @@
 <body>
-<h1 align="center">𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖗𝖊𝖆𝖑𝖎𝖙𝖞</h1>
+<h1 align="center">Hi !</h1>
 <div>
-<h2 align="center"> 𝖂𝖍𝖔 𝖎𝖘 𝖙𝖍𝖎𝖘 𝖌𝖚𝖞? </h2>
+<h2 align="center"> Who is this guy? </h2>
   <div align="center">
 <img src="https://media2.giphy.com/media/t6sWsqKTTMyNa/200w.gif?cid=6c09b952n9ginojnur0ml7z2ae403lnuqxotwpnh3zozx950&rid=200w.gif&ct=g" style="width:150px" align="right">
   </div>
@@ -34,7 +34,7 @@
  <br>
 <p>
   <div align="center">
-  <h2 align="center">            ~  𝕿𝖊𝖈𝖍𝖘𝖙𝖆𝖈𝖐  ~</h2>
+  <h2 align="center">            ~  TechStack  ~</h2>
   </div>
 </div>
 <div>
@@ -43,26 +43,13 @@
 <br>
 <div>
 
-<h2 align="center"> ~ 𝕮𝖔𝖓𝖙𝖆𝖈𝖙 𝕸𝖊 ~ </h2>
+<h2 align="center"> ~ Contact Me ~ </h2>
 <br>
 <img src="https://i.pinimg.com/originals/96/5f/be/965fbeaea33447a0c415e6dda97496de.gif"  align="right">
 <br><br><br><br><br>
 <p align="center">You can reach me via Linkedin or Gmail</p>
 <p align="center">baranoden@gmail.com</p>
 <p align="center"><a href="https://linkedin.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br><br><br><br><br><br><br>
-<h2 align="center"> ~ 𝕿𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖈𝖔𝖒𝖎𝖓𝖌 ~ </h2>
-<br>
-<img src="https://64.media.tumblr.com/b2765e233d403b76d2c4bfc59c20bf99/tumblr_mznk3tq1x11slvxrlo1_1280.gif"  align="left">
-<br><br><br><br><br>
-<p align="center">Take care of yourself</p>
-<div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=baranoden&label=Profile%20views&color=0e75b6&style=flat" alt="baranoden" /> </p>
-  </div>
-<br>
 
-<!-- <h2 align="center">~ 𝕿𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖈𝖔𝖒𝖎𝖓𝖌 ~</h2>
-<img src="https://media.tenor.com/h36Yk0VbUXoAAAAC/madara-badass.gif">
-<hr> -->
 
 </body>
