@@ -12,7 +12,7 @@
 <b>Loves:</b> mangas, games, coding, animes 
 </li>
 <li>
-<b>Work:</b> Software Developer @Kartaca
+<b>Work:</b> Software Developer @Logo
 </li>
 <li>
 <b>Hobbys:</b> Loves to watch Anime, Frontend Designs, Web Development
