@@ -51,20 +51,19 @@
 
 <h1></h1>
 
-<div style="display:flex; justify-content:center;">
-
-![baranoden's Stats](https://github-readme-stats.vercel.app/api?username=baranoden&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-
-![baranoden's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baranoden&theme=dracula&hide_border=true)
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baranoden&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="baranoden's Stats" width="340"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranoden&theme=dracula&hide_border=true" alt="baranoden's Streak" width="355"/>
+</p>
 <h1 align="center">Contact Me</h1>
 
-<div style="display:flex; justify-content:center;">
-  <a href="mailto:baranoden@gmail.com" style="text-decoration:none;"><b>baranoden@gmail.com</b></a>
-  <p style="margin: 0 1rem">&</p>
-  <a style="text-decoration:none; cursor:pointer;" href="https://www.linkedin.com/in/baranoden" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a>
-</div>
+<p align="center">
+  <a href="mailto:baranoden@gmail.com"><b>baranoden@gmail.com</b></a>
+
+
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/baranoden" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a>
+</p>
 
 </body>
