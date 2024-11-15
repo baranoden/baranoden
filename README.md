@@ -1,32 +1,29 @@
 <body>
     <h1 align="center">Hi !</h1>
-  <div style="display:flex; flex-direction:row-reverse;justify-content:space-between; align-items:center" >
-  <div>
-    <img src="https://private-user-images.githubusercontent.com/87757599/370920084-4f5611b9-ab90-4927-bee7-7f8e7c0a74a2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczMDYzMDIsIm5iZiI6MTcyNzMwNjAwMiwicGF0aCI6Ii84Nzc1NzU5OS8zNzA5MjAwODQtNGY1NjExYjktYWI5MC00OTI3LWJlZTctN2Y4ZTdjMGE3NGEyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI1VDIzMTMyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyMjUzOThhMTcwYzMyZGMzNTA2ZGIzOThlMGUzZWYzOTBhZmM2ZDdjZTg1Mjk2YTcwY2EyMDBmNjljNzRiY2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dRhJI_tPjeinrYVEkI6vbQIPZrqNPfVcgU6kQ8XH7xg" style="width:225px" align="right">
-    </div>
-<div> 
-<li>
- <b>Name:</b> Baran Öden</li>
-<li>
-<b>Loves:</b> mangas, games, coding, animes 
-</li>
-<li>
-<b>Work:</b> Software Developer @Logo
-</li>
-<li>
-<b>Hobbys:</b> Loves to watch Anime, Frontend Designs, Web Development
-</li>
-<li>
-<b>Currently Working on:</b> Microfrontend structure, automized scripts
-</li>
-<li>
-<b>Ask me:</b> Redux-saga structure, React js and also typescript
-</li> 
-<li>
-<b>Plot twist:</b> I really enjoy developing mobile apps with react native.
-</li> 
+    <div align="center">
+
+<table  style="width:100%">
+  <tr>
+    <!-- Left Side: List -->
+    <td >
+      <ul>
+        <li><b>Name:</b> Baran Öden</li>
+        <li><b>Loves:</b> mangas, games, coding, animes</li>
+        <li><b>Work:</b> Software Developer @Logo</li>
+        <li><b>Hobbys:</b> Loves to watch Anime, Frontend Designs, Web Development</li>
+        <li><b>Currently Working on:</b> Microfrontend structure, automized scripts</li>
+        <li><b>Ask me:</b> Redux-saga structure, React js and also typescript</li>
+        <li><b>Plot twist:</b> I really enjoy developing mobile apps with react native.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/baranoden/baranoden/blob/main/assets/mywife.jpg?raw=true" alt="My Wife" width="200">
+    </td>
+  </tr>
+</table>
 </div>
-</div>
+
+
 <h1 align="center">TechStack</h1>
     
 ![image](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
