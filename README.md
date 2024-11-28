@@ -12,8 +12,8 @@
         <li><b>Work:</b> Software Developer @Logo</li>
         <li><b>Hobbys:</b> Loves to watch Anime, Frontend Designs, Web Development</li>
         <li><b>Currently Working on:</b> Microfrontend structure, automized scripts</li>
-        <li><b>Ask me:</b> Redux-saga structure, React js and also typescript</li>
-        <li><b>Plot twist:</b> I really enjoy developing mobile apps with react native.</li>
+        <li><b>Ask me:</b> Redux-saga structure, React js, NextJs and also Typescript</li>
+        <li><b>Plot twist:</b> I really enjoy developing mobile apps with FLUTTER.</li>
       </ul>
     </td>
     <td>
